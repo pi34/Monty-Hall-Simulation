@@ -22,7 +22,7 @@ def montyHall(numberOfDoors, switch):
 
 winner = 0
 winnerSwitcher = 0
-times = 400
+times = 4
 doors = 400
 
 for _ in range(times):
